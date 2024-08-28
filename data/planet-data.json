@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Mercury",
+        "diameter": 4879,
+        "length_of_day": 4222.6,
+        "number_of_moons": 0,
+        "mean_temperature": 167
+    },
+    {
+        "name": "Venus",
+        "diameter": 12104,
+        "length_of_day": 2802.0,
+        "number_of_moons": 0,
+        "mean_temperature": 464
+    },
+    {
+        "name": "Earth",
+        "diameter": 12756,
+        "length_of_day": 24.0,
+        "number_of_moons": 1,
+        "mean_temperature": 15
+    },
+    {
+        "name": "Mars",
+        "diameter": 6792,
+        "length_of_day": 24.7,
+        "number_of_moons": 2,
+        "mean_temperature": -65
+    },
+    {
+        "name": "Jupiter",
+        "diameter": 142984,
+        "length_of_day": 9.9,
+        "number_of_moons": 92,
+        "mean_temperature": -110
+    },
+    {
+        "name": "Saturn",
+        "diameter": 120536,
+        "length_of_day": 10.7,
+        "number_of_moons": 83,
+        "mean_temperature": -140
+    },
+    {
+        "name": "Uranus",
+        "diameter": 51118,
+        "length_of_day": 17.2,
+        "number_of_moons": 27,
+        "mean_temperature": -195
+    },
+    {
+        "name": "Neptune",
+        "diameter": 49528,
+        "length_of_day": 16.1,
+        "number_of_moons": 14,
+        "mean_temperature": -200
+    }
+]

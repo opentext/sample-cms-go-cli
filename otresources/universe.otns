@@ -1,0 +1,11 @@
+{
+  "id": "9737d594-ec03-4125-85d9-90b246845185",
+  "schemaId": "https://www.opentext.com/ocp/devx/common/1.0.0/Namespace",
+  "data": {
+    "display_name": "Universe",
+    "prefix": "un",
+    "name": "universe",
+    "description": "Namespace for astronomical types."
+  },
+  "serviceName": "common"
+}

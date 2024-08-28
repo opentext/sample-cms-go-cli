@@ -1,0 +1,52 @@
+{
+  "id": "389a0f56-24e7-4493-818e-52e2785b0734",
+  "schemaId": "https://www.opentext.com/ocp/devx/metadata/1.0.1/Type",
+  "data": {
+    "category": "object",
+    "name": "planet",
+    "display_name": "Planet",
+    "namespace": "9737d594-ec03-4125-85d9-90b246845185",
+    "attributes": [
+      {
+        "data_type": "integer",
+        "display_name": "Diameter (km)",
+        "name": "diameter",
+        "required": true,
+        "validators": [],
+        "ot2mc-row-id": "44ff68e3-3ea6-4f3a-9e78-62020ed4e1d1"
+      },
+      {
+        "data_type": "double",
+        "display_name": "Length of day (hours)",
+        "name": "length_of_day",
+        "required": true,
+        "validators": [],
+        "ot2mc-row-id": "68ef3c80-41ba-4204-9106-325c44d9da72"
+      },
+      {
+        "data_type": "integer",
+        "display_name": "Number of moons",
+        "name": "number_of_moons",
+        "required": false,
+        "validators": [],
+        "ot2mc-row-id": "e6730cae-795d-4703-b461-9eb2952c6679"
+      },
+      {
+        "data_type": "integer",
+        "display_name": "Mean temperature",
+        "name": "mean_temperature",
+        "validators": [],
+        "ot2mc-row-id": "bf0f8308-f281-4ad3-9c46-3adcb6646adc"
+      }
+    ],
+    "description": "This CMS object represents a planet.",
+    "operations": [],
+    "indexes": [],
+    "methods": [],
+    "scripts": [],
+    "required_traits": [],
+    "non_auditable_actions": [],
+    "actions": []
+  },
+  "serviceName": "metadata"
+}
