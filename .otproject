@@ -1,0 +1,14 @@
+{
+  "projectName": "Planets",
+  "application": {
+    "id": "7e66e70b-6a6a-4acd-bf88-3442c44d0426",
+    "name": "planets",
+    "displayName": "Planets",
+    "description": "This is an example application to demonstrate using a Go CLI to update the Content Metadata Service with planet data.",
+    "version": "1.0",
+    "vendor": "Example"
+  },
+  "modelFolders": [
+    "./otresources"
+  ]
+}
